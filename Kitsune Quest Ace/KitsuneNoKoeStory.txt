@@ -46,61 +46,37 @@ Leo - <It's so cold out today... I guess this scarf is pretty warm at least, eve
 (Player controls this part to walk down the street until a certain point, with an alleyway, should be some NPCs and shiz in this part to keep it from feeling too empty and short)
 
 
-(Magic sound effects play upon reaching it)
+(Music effects play upon reaching it)
 
-Leo - What was that noise?! 
-      -... I don't have time to look, the foreman will scream at me if I'm late...
+Leo - Huh...? Music? That's odd.
+      - I almost never get to hear music... It sounds so nice. But I don't really have time to stand around here... I've got to get going.
 
-(Sound plays again, louder)
 
 Leo - ...
-       <I should at least, take a look, right?>
+       <It's so mezmorizing though... I really wish I could stay and listen...>
 
-(Leo walks down into the alleyway, where there's a magic glow or something to look like it idk bruh)
+(Leo runs off)
 
-Leo - Gah, it's so bright! What in the...
+(at train station shizzy wizzy bawizzy klizzy)
 
-??? - Please... Someone, come help me... I can't handle this alone...
+Leo - Sigh... I hate this job... I haven't heard such nice music like that in so long, and I couldn't stay for hardly a moment to listen...
+     - It's not like I have a choice... I might as well not get upset over it.
 
-Leo - Wh...what? Is someone there? Hello?
+(Train arrives if you can show it, if not just show something to show it's later)
 
-??? - I hope this reaches someone... All I can rely on now is fate...
+Leo - So cold today... I should hurry home.
 
-Leo - Huh? Fate...? 
-
-??? - Please...
-
-(Light fades away)
-
-Leo - What... was that? Some kind of... magic? That type of stuff doesn't exist, right...?
-
-Leo - I... don't have time for this. I've got to get to work right away...
-(fade out effect or something)
-Scene 2: (this needs like outside of a factory map or some shiz)
-
-Leo - *Sigh* What an awful day... I can't stand working all day like this, it's horrible...
-      - At least I can go home and see Ruby and Mom and Dad tonight... I should head straight back.
-
-(Back at top end of Alleyway map, player controls to walk south until you reach the alleyway again, Leo stops at it and turns towards it)
-
-Leo - What was that this morning anyway... I swear I heard a girl's voice... (Leo walks into the alleyway to the point where the scene happened before)
-      - I don't see anything here... That was so bizarre...
-      - Was... it even real? Did I imagine it or something? Stuff like magic isn't real, so... It must have been my imagination...
-      - ...I should just go home, I guess.
-
-(Back to player control, I'll add some NPCs and shiz here when the map is done)
-
-(Player controls back to the bottom of the map (also make this map kind of big so it's not like a tiny part), activate event near the bottom making the magic sound play again)
-
-Leo - It's that sound again! (Leo runs back to the alleyway, magic shiz is back)
-      - I knew I didn't imagine it! What the hell is this?! 
-      -Someone, anybody, come look, quick! I'm not the only one to see this right?
-
-??? - All I can rely on now...
-
-Leo - Huh...? It's that voice again! Where are you? What is this?
-
-??? - ...Is fate.
+(player control back to street until the alley)
+(music sounds again)
+Leo - Huh? That music is still playing!
+      - I guess it would be okay if I listened for a minute now...
+(Leo moves into the alley where the light thing is)
+Leo - Huh...? What's with this light...
+      - It seems like the music is coming out of it!
+      - ...What happens if I touch it...?
+??? - No! Get away! Stop!
+Leo - Wh-what?! I'm sorry, I didn't mean to...!
+??? - Get away from me!
 
 (Screen flashes white)
 
