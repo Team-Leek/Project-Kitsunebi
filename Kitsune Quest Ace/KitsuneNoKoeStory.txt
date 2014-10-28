@@ -1,0 +1,403 @@
+Kitsune no Koe AKA Fox Adventure AKA Bordy's boosheet game
+
+Scene 1: Leo's ABAP house
+
+(Leo standing near the door)
+Leo - *Sigh* It's so cold today... I really wish I didn't have to go to work again today... But if we want to keep warm, I've got to keep helping out...
+
+Ruby (Leo's sister) - (walks in) Leo! Wait! Don't leave just yet!
+
+Leo - Why? I've got to get going now, or I'll be late.
+
+Ruby - Just hold on a sec, okay? (she walks off screen)
+
+Leo - What's this about...
+
+Ruby - (walks back in) I've got a birthday present for you! I made it myself!
+
+Leo - ...Birthday present?
+
+Ruby - Hehe, yeah, of course! You didn't forget your own birthday did you?
+
+Leo - Hehe... of course not. So, what's the present?
+
+Ruby - Tadah! It's a purple scarf! Isn't it cool? It should help you stay warm at work! 
+
+Leo - ...
+
+Ruby - ...What is it? Don't you like it?
+
+Leo - Erm... No, I love it. It's cool, I'll wear it now, see?
+
+Ruby - Hehe! Yay! Oh, that's right! Make sure you come back soon after work, okay? Mom and Dad are going to be home tonight too, so we can spend your birthday together!
+So don't stay out tonight!
+
+Leo - Alright, I'll be back as soon as I can then. I've really got to leave now though, alright? I'll see you tonight.
+
+Ruby - Bye, Leo!
+
+----
+
+(Outside) 
+
+Leo - <It's so cold out today... I guess this scarf is pretty warm at least, even if it looks a little weird...>
+        <I'm so tired of this everyday... It seems like all I ever do is work... But, it's for Ruby's sake, I suppose...>
+
+(Player controls this part to walk down the street until a certain point, with an alleyway, should be some NPCs and shiz in this part to keep it from feeling too empty and short)
+
+
+(Magic sound effects play upon reaching it)
+
+Leo - What was that noise?! 
+      -... I don't have time to look, the foreman will scream at me if I'm late...
+
+(Sound plays again, louder)
+
+Leo - ...
+       <I should at least, take a look, right?>
+
+(Leo walks down into the alleyway, where there's a magic glow or something to look like it idk bruh)
+
+Leo - Gah, it's so bright! What in the...
+
+??? - Please... Someone, come help me... I can't handle this alone...
+
+Leo - Wh...what? Is someone there? Hello?
+
+??? - I hope this reaches someone... All I can rely on now is fate...
+
+Leo - Huh? Fate...? 
+
+??? - Please...
+
+(Light fades away)
+
+Leo - What... was that? Some kind of... magic? That type of stuff doesn't exist, right...?
+
+Leo - I... don't have time for this. I've got to get to work right away...
+(fade out effect or something)
+Scene 2: (this needs like outside of a factory map or some shiz)
+
+Leo - *Sigh* What an awful day... I can't stand working all day like this, it's horrible...
+      - At least I can go home and see Ruby and Mom and Dad tonight... I should head straight back.
+
+(Back at top end of Alleyway map, player controls to walk south until you reach the alleyway again, Leo stops at it and turns towards it)
+
+Leo - What was that this morning anyway... I swear I heard a girl's voice... (Leo walks into the alleyway to the point where the scene happened before)
+      - I don't see anything here... That was so bizarre...
+      - Was... it even real? Did I imagine it or something? Stuff like magic isn't real, so... It must have been my imagination...
+      - ...I should just go home, I guess.
+
+(Back to player control, I'll add some NPCs and shiz here when the map is done)
+
+(Player controls back to the bottom of the map (also make this map kind of big so it's not like a tiny part), activate event near the bottom making the magic sound play again)
+
+Leo - It's that sound again! (Leo runs back to the alleyway, magic shiz is back)
+      - I knew I didn't imagine it! What the hell is this?! 
+      -Someone, anybody, come look, quick! I'm not the only one to see this right?
+
+??? - All I can rely on now...
+
+Leo - Huh...? It's that voice again! Where are you? What is this?
+
+??? - ...Is fate.
+
+(Screen flashes white)
+
+Leo - Gah! Wha....?
+
+(Library area)
+
+
+Leo - (Wha... What happened?)
+      - (A... library? But... it's not quite a normal library, is it...)
+      - (Is this some kind of dream? Wasn't I just walking home though...?)
+      
+
+*Music echoes through the library*
+
+     -(It's that song from before! Where is it coming from? This way?)
+
+<controlled part where you walk through the map>
+
+<Music cuts out at the end>
+
+  -(What? It stopped...)
+
+??? - Kyaaah! Get away from me! I'm not going with you!
+
+Leo - What?! Who's there? What's going on!
+
+??? - No! Stop it! 
+<screen turns white>
+Leo - Gah! What's happening...
+      - What... is this...
+      - I...
+
+<Crescent Woods>
+
+(Leo is passed out on the ground and gets up  if you can show that somehow idk)
+
+Leo - Huh...? Was I asleep?
+      - Does that mean it was a dream? But why am I in the woods?
+      - And it's so hot in these clothes... and the trees... 
+      - W-what...? It isn't winter? What the hell happened?
+
+??? - Hey! You there!
+
+Leo - Huh? Who's there?
+
+??? - Over here!
+
+<Reason walks into the map>
+
+Leo - Wh... Who are you? What's with that weird outfit?
+
+??? - Hmm? You're one to talk, aren't you? Isn't that a bit warm?
+
+Leo - Huh...? Well, I guess...
+
+??? - Sorry, but I don't have time to chat. Did you see a Fox go through here?
+
+Leo - A fox...?
+
+??? - Yes, yes, that's what I said, isn't it? Did you see one or not?
+
+Leo - Umm, no... Where is this, anyway?
+
+??? - Listen, it's very important that I find this fox, alright? If I don't find it, something very bad will happen, you understand?
+
+Leo - Huh...? What's so important about a fox...? Anyway, can't you tell me where I am?
+
+??? - It's the Crescent Woods, alright? Anyway, it's imperative that I find it, so I need to continue searching.
+
+Leo - If I help you find her, would you at least answer a few questions for me?
+
+??? - Yes, yes, certainly. If you manage to find her, I'll answer anything you might want to know, okay? If you see her, return to this glade and shout, the forest is fairly small, so I'll most likely hear it.
+      
+Leo - Umm... Sure. I guess I'll look around a bit, then.
+
+??? - Oh, and she is quite the trickster, if she tries to play any kind of trick on you, just don't listen, and shout for me.
+
+Leo - Huh? Tricks?
+
+<Reason walks off>
+
+Leo - What does he mean by that... A fox playing tricks?
+      - Anyway, I guess I should help look...
+
+<player controlled part>
+
+<after reaching a certain point>
+
+??? - Psst! Hey you! Over here!
+
+Leo - Huh? Me?
+
+??? - Yeah! Come here!
+
+Leo - W-what? Where?
+
+??? - Over here! The bush!
+
+Leo - ...Umm
+
+??? - Come on! Please? I need help!
+
+Leo - Erm... Alright...
+
+<Leo moves to the bush>
+
+Leo - Uhh... Where are you? It's dark and I can't really see...
+
+??? - I need you to get me out of here to the village, alright? Just let me hide in your coat!
+
+Leo - W-What?! Hide in my coat?
+
+??? - Just don't freak out, okay? I can't let him see me!
+
+<Ikari jumps out and goes into leo's coat>
+
+Leo - H-hey! A fox! What the...!
+
+??? - Shh! Be quiet!
+
+Leo - You're talking?! What?! I really must be dreaming...
+
+??? - You're not dreaming! And be quiet! I can't let him find me!
+
+Leo - No... This has to be a dream right... I'll just wake up and...
+
+Leo - ...
+
+Leo - ......
+
+Leo - I'm not waking up...
+
+??? - Because it's not a dream! Now come on! We need to go to the village!
+
+Leo - What village? I don't even know where this is!
+
+Leo - Wait... That guy told me to not let a fox trick me! You're trying to trick me, aren't you?!
+
+??? - No! I'm not! Please be quiet! Don't let him hear!
+
+Leo - Hey! She's over he- OUCH! You bit me!
+
+??? - I'm sorry! Just stop! Please! Just get me away from here and we can talk, alright?
+
+Leo - Why should I trust a talking fox so quickly? Especially since you just bit me!
+
+??? - I said sorry! Please... I'm begging you... I'll tell you how to get to the village!
+
+Leo - ...Fine. Fine! This is way too weird, and I'm still not convinced this isn't a dream, so fine! Let's go to the village!
+
+??? - Thank you! Now please, let's hurry!
+
+<player controlled part to go to village>
+
+Leo - Hey! This is the place, right?
+
+??? - Yeah! It's Crescent Village! We need to get to the Shrine in the back of the village!
+
+Leo - Uh, sure, Let's go.
+
+<player control shiiiiiiz>
+
+Leo - Is this it? The shrine?
+
+??? - Yes! Now hurry and get inside before that guy comes around!
+
+<walk inside>
+
+??? - Whew... We should be safe here for now, he already came to look for me in here earlier, so he shouldn't be back for a while at least.
+
+Leo - So are you going to tell me what the hell is going on? I'm so confused... If this isn't a dream, then where am I? And who are you anyway? Why did that guy want to find a talking fox so bad? Are you part of a circus or something?
+
+??? - A what...? No! Listen, I don't know for sure why they want me exactly, but I know it isn't good! Those guys are evil! ...And anyway, I'm a Kitsune! Stop saying Fox!
+
+Leo - Uhh, sure... Anyway, what do you mean Those guys? Are there more weird guys like him?
+
+??? - Yes! He's part of the Mordian wolves! I don't know what it is they're after exactly, but they've been trying to kidnap me!
+
+Leo - Mordian wolves...? I don't know what any of that stuff is...
+
+??? - Wait... You're the one I summoned, aren't you?! Why didn't I notice sooner?!
+
+Leo - Huh?! You summoned me?!
+
+??? - I tried to summon someone to help, but I thought it failed! I guess you're the one that came!
+
+Leo - What? But why me?! I'm not special!
+
+??? - Well... I'm not too great at summoning yet, really. So, I was just kind of summoning randomly...
+
+Leo - ...Huh?! Isn't that a bad idea?! You could have summoned someone that would just make it worse!
+
+??? - Well... I was just relying on fate. Whatever happened was fated to happen, and you helped me, didn't you? So it's turned out fine so far!
+
+Leo - I guess so...
+
+??? - Anyway, I haven't even told you my name yet!
+Ikari - I'm Ikari!     
+ 
+Leo - Ikari? What a strange name...
+
+Ikari - Hmmph! It's not strange! It's a normal name for a Kitsune!
+       - What's your name?
+
+Leo - My name is Leo.
+
+Ikari - Leo? Really?
+
+Leo - ...Yeah?
+
+Ikari - *Snicker* And you said my name was weird...
+
+Leo - ...Well sorry! This is all foreign to me you know! I'm still kind of in a state of disbelief at all this...
+
+Ikari - Well it's real! And I need your help!
+
+Leo - Why should I help you anyway? What do I get out of it?
+
+Ikari - Would you rather be left to fend for yourself in this place?
+
+Leo - ...That's not very fair after you summoned me here, you know...
+
+Ikari - I'll make it up to you, alright? Wait here a second! I need to get my flute out from it's hiding spot out back, then we need to get moving out of here!
+
+Leo - We're going to just leave in the middle of the night?
+
+Ikari - It's Crescent Woods! It's always night!
+
+Leo - Wha...?
+
+<Ikari goes out the door>
+
+Leo - (I guess I might as well go along with her... I mean this can't be real anyway, right? I'm sure it's a dream...)
+      - (But... I don't remember ever getting home after work... I was supposed to have my birthday party too... )
+      - (All I remember was that weird song from the alley, and then... a light and... Wait.)
+      - (She said she was getting her flute... That song was on a flute too, wasn't it?)
+      - (Did she really summon me here? Is this... actually real?)
+      - (Ruby... I've got to get home somehow...)
+Ikari - Wh-What?! Where is it?!
+
+Leo - Huh?
+
+Ikari - It's gone! My flute was stolen!
+
+<Leo moves outside to where she is>
+
+Leo - What's going on? Someone stole your flute?
+
+Ikari - Yes! I need that flute! It's very important!
+
+Leo - What's this?
+
+<There's a note pinned to a nearby tree>
+
+Leo - A note?
+
+Ikari - Give me it! Let me see!
+
+Ikari - It's barely legible...
+
+Leo - What's it say?
+
+Ikari - "We take pretty stick. Ours forever! You no take back. Ours! We make pretty sound! -Kobolds"
+
+Leo - ...
+
+Ikari - You've got to be kidding me! The kobolds stole it! Of course they did!
+
+Leo - Kobolds...?
+
+Ikari - Listen, we've got to get it back! I know where their cave is!
+       - They're pretty weak, so you should be able to fight through them, but I can't fight without my flute!
+
+Leo - Huh? You want me to fight them? That sounds dangerous...
+
+Ikari - It's fine, they're stupid and weak, so I'm sure they won't be an issue. But we need to get that flute back!
+
+Leo - If you say so...
+
+Ikari - The cave is to the south! Let's go!
+
+Leo - (How does a Fox play a flute anyway...)
+
+<Controlled shiz>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
