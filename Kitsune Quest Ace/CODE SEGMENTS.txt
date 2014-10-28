@@ -1,0 +1,3 @@
+USEFUL CODE SEGMENTS 
+
+$game_party.members.size
