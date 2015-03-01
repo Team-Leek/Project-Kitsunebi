@@ -363,12 +363,115 @@ Leo - (How does a Fox play a flute anyway...)
 
 <Controlled shiz>
 
+<write the dungeon parts and I'll rewrite>
 
+-end of dungeon-
 
+Leo - That was crazy... I can't believe we actually went and fought monsters like that...
 
+Ikari - Huh? But Kobolds are weak, it's not like it was a big deal.
 
+Leo - Where I come from, stuff like that only happens in made-up stories! Stuff like monsters don't exist! You don't understand how weird all of this is to me!
 
+Ikari - There's no monsters where you're from...? That sure sounds nice... If I never had to deal with monsters...
 
+Leo - Well... It's not like my old life was great anyway...
+
+Ikari - Huh? 
+
+Leo - I get forced to work every day just so my family has enough money to eat and have a home... I almost never get to hear things like music, and lately it's been so cold...
+
+Ikari - You never get to hear music? Oh... That's kind of sad, huh?
+
+Leo - Oh, uh, I guess so...
+
+Ikari - Hehe~, well, I'll play music for you any time you like, okay? If you stay with me a while longer and help me out, I'll play as much as you want, okay?
+
+Leo - Huh...? You still need my help? I just want to go home though...
+
+Ikari - Didn't you just say you didn't even like your old life? And besides...
+
+Leo - (But Ruby... I can't just...)
+
+Ikari - I don't ~really~ know how to send you back anyway...
+
+Leo - Wh-what?! You don't?!
+
+Ikari - Heh... Hey, I said I'm not that great at summoning yet didn't I? Maybe if I practice and learned a bit more I could do it eventually...
+
+Leo - Eventually?! I was supposed to be back home tonight! It was... My birthday today...
+
+Ikari - Oh... Really? I'm sorry... I shouldn't have summoned you, it was pretty selfish, wasn't it...
+
+Leo - *Sigh...* Come on... You don't have to feel sad... You were in danger, and I guess since I was able to help you out, it's fine...
+
+Ikari - Don't try to make me feel better about it! It was selfish! I'll try my best to make up for it, okay? Just please, stick around and help me a while longer!
+
+      - Are you hungry, if we go to Lalabay City, I can find us something to eat!
+
+Leo - I guess I am pretty hungry, actually...
+
+Ikari - Alright! Let's go then! It should be safer there anyway, there's lots of people, so if that guy shows up again, everyone would see him.
+
+<ikari explains where to go or something and you walk there>
+
+Ikari - Alright here we are, this is Lalabay City!
+
+Leo - Wow... It's like a story book here...
+
+     - So, we can get something to eat here? Is there a market or something?
+
+Ikari - Yeah there is! We just have to-- Um... Oh wait...
+
+Leo - Huh? What is it?
+
+Ikari - Well... I don't actually have money right now, I forgot... I spent it all on apples a while ago...
+
+Leo - ...So we can't get anything to eat, then?
+
+Ikari - W-Well, there should be something on the job board in town! There usually is! We just clean someone's store or move some boxes or something and we can eat!
+
+<find the job board in town, NPCs tell you where it is or something>
+
+Leo - This is the job board? Let's see...
+
+Leo - Experienced sailors wanted, no...
+
+Ikari - Veteran mage needed for ritual... Can't do that...
+
+Leo - Professional Tailors needed... 
+
+Leo - Ikari, we can't do any of this...
+
+Ikari - Uhhh, hehe... D-don't worry! I'll think of something! I'll get us something to eat, I promise!
+
+??? - Hey! You two!
+
+Leo - What? Us?
+
+??? - Yeah! I noticed you guys have weapons, and you want a job right? You need money?
+
+Ikari - Yes! We do! All those things!
+
+??? - Then please help me out! Some weird monsters appeared in the Clock Tower while I was working and attacked me, and now us workers can't get inside! We'll pay you if you help us out!
+
+Ikari - So lucky! Yes! We'll do it!
+
+Leo - We will?! But we don't know how strong they are! 
+
+Ikari - Come on, you handled those Kobolds easily, didn't you? Don't be afraid!
+
+Leo - You said yourself they were stupid and weak..
+
+??? - ...So will you do it or not?
+
+Ikari - Yes! We're doing it, don't worry!
+
+Leo - ...
+
+??? - Great! The Clock Tower is <where it is>, please hurry, there are still other men trapped in there!
+
+Ikari - Okay Leo! Let's go!
 
 
 
