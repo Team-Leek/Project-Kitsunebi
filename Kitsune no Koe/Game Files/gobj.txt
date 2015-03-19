@@ -2371,3 +2371,1373 @@ Script 0146 -- Main, Line: 7:in `block in <main>'
 :1:in `rgss_main'
 Script 0146 -- Main, Line: 7:in `<main>'
 ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e03414>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e02e60>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e02b40>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e02820>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e02334>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e01cb8>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e0131c>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9e00afc>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9dffa08>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9dff6e8>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:37:05 -0400
+Memory Leak #<Map_Name:0x9dff328>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa42b51c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa42b008>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa42ab08>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa42a5b8>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa427070>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa426b5c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Command_Menu_Sprite:0xa426648>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-18 16:45:49 -0400
+Memory Leak #<Actor_Menu_Pictures:0xa4260e4>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3111:in `block in create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3110:in `each'
+Script 0126 -- Mog Monogatari, Line: 3110:in `create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3024:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0146 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0146 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f45c00>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f45994>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f45728>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f454bc>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f45214>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f44f94>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f44d14>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f44a94>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f44828>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f445a8>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:34:11 -0400
+Memory Leak #<Map_Name:0x9f4433c>
+In Scene Scene_Map
+Creation Stack:: 
+Script 0140 -- MOG_Touhou_Map_Name, Line: 324:in `block in create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `each'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 323:in `create_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 485:in `refresh_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 460:in `update'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 283:in `update_touhou_map_name'
+Script 0140 -- MOG_Touhou_Map_Name, Line: 275:in `update'
+Script 0101 -- Scene_Map, Line: 65:in `update'
+Script 0099 -- Scene_Base, Line: 14:in `main'
+Script 0128 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0132 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9f32894>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9f32394>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e9abc0>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e9a698>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e9a184>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e99bbc>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e996bc>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:11 -0400
+Memory Leak #<Actor_Menu_Pictures:0x9e9916c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3111:in `block in create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3110:in `each'
+Script 0126 -- Mog Monogatari, Line: 3110:in `create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3024:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa66394c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa6631f4>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa662a74>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa662394>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa661d2c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa652d2c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Command_Menu_Sprite:0xa652674>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:27 -0400
+Memory Leak #<Actor_Menu_Pictures:0xa652070>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3111:in `block in create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3110:in `each'
+Script 0126 -- Mog Monogatari, Line: 3110:in `create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3024:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Layout_Window_Sprite:0xa6f4118>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4233:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 4232:in `each'
+Script 0126 -- Mog Monogatari, Line: 4232:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 4068:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Layout_Window_Sprite:0xa6f3e20>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4233:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 4232:in `each'
+Script 0126 -- Mog Monogatari, Line: 4232:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 4068:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Layout_Window_Sprite:0xa6f3b78>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4233:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 4232:in `each'
+Script 0126 -- Mog Monogatari, Line: 4232:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 4068:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Layout_Window_Sprite:0xa6f38d0>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4233:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 4232:in `each'
+Script 0126 -- Mog Monogatari, Line: 4232:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 4068:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Item_Button_Sprite:0xa6f35c4>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4245:in `block in create_button'
+Script 0126 -- Mog Monogatari, Line: 4244:in `each'
+Script 0126 -- Mog Monogatari, Line: 4244:in `create_button'
+Script 0126 -- Mog Monogatari, Line: 4069:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Item_Button_Sprite:0xa6f331c>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4245:in `block in create_button'
+Script 0126 -- Mog Monogatari, Line: 4244:in `each'
+Script 0126 -- Mog Monogatari, Line: 4244:in `create_button'
+Script 0126 -- Mog Monogatari, Line: 4069:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Item_Button_Sprite:0xa6f3060>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4245:in `block in create_button'
+Script 0126 -- Mog Monogatari, Line: 4244:in `each'
+Script 0126 -- Mog Monogatari, Line: 4244:in `create_button'
+Script 0126 -- Mog Monogatari, Line: 4069:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:28 -0400
+Memory Leak #<Item_Button_Sprite:0xa6f2d54>
+In Scene Scene_Item
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 4245:in `block in create_button'
+Script 0126 -- Mog Monogatari, Line: 4244:in `each'
+Script 0126 -- Mog Monogatari, Line: 4244:in `create_button'
+Script 0126 -- Mog Monogatari, Line: 4069:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 3673:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 3660:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa51e424>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa51d0c4>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa51bd8c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa51abe4>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa5199ec>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa5185ec>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Command_Menu_Sprite:0xa51737c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:40 -0400
+Memory Leak #<Actor_Menu_Pictures:0xa516080>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3111:in `block in create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3110:in `each'
+Script 0126 -- Mog Monogatari, Line: 3110:in `create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3024:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8d2f4>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8ce08>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8c8b8>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8c3b8>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8be68>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8b97c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Command_Menu_Sprite:0x9e8b42c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0126 -- Mog Monogatari, Line: 3081:in `each'
+Script 0126 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0126 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-03-19 16:35:53 -0400
+Memory Leak #<Actor_Menu_Pictures:0x9e8ae8c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0126 -- Mog Monogatari, Line: 3111:in `block in create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3110:in `each'
+Script 0126 -- Mog Monogatari, Line: 3110:in `create_actor_pictures'
+Script 0126 -- Mog Monogatari, Line: 3024:in `create_sprites'
+Script 0126 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0126 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0147 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0147 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
