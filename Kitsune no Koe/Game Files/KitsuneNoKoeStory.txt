@@ -453,7 +453,7 @@ Leo - What? Us?
 
 Ikari - Yes! We do! All those things!
 
-??? - Then please help me out! Some weird monsters appeared in the Clock Tower while I was working and attacked me, and now us workers can't get inside! We'll pay you if you help us out!
+??? - Then please help me out! I'm the foreman of the local carpentry crew, and some weird monsters appeared in the Clock Tower while we were and attacked us, and we can't get back inside! We'll pay you if you help us out!
 
 Ikari - So lucky! Yes! We'll do it!
 
@@ -473,10 +473,60 @@ Leo - ...
 
 Ikari - Okay Leo! Let's go!
 
+<entering the clock tower> 
 
+Leo - Wow... It's pretty fancy in here, isn't it? Not quite what I expected...
 
+Ikari - Yeah, it's pretty, isn't it?
 
+Leo - Well, let's not get distracted, those workers need our help!
 
+Ikari - Yeah, let's get going!
 
+<at boss room>
 
+Leo - Woah... This guy is pretty big...
+ 
+Ikari - He must be the leader of them! I bet if he we take him out, any others that we missed will flee too!
 
+Leo - Alright... We can do this! No problem! Let's go!
+
+<after boss> 
+<workers come in from off screen>
+Worker - Wow! You kids really beat it? That's impressive!
+Worker 2 - You really saved us, thanks a lot!
+Worker 3 - Yeah! If you ever need our help with anything, come find us! We won't forget this!
+
+<The workers leave>
+
+Ikari - Hehe~! Maybe it could come in handy to have carpenters owe us a favor later on, you think?
+
+Leo - I suppose it could. Let's get back and find that other guy so we can get paid, I'm starving.
+
+<Leaving the tower, the foreman appears>
+
+Foreman - It's you two! The other men came out and told me what you did, thank you so much!
+
+Ikari - So, are you going to pay us?
+
+Foreman - Yes, yes! Come meet me at the Inn, and I'll have your pay!
+
+Ikari - Woohoo~!
+
+<entering the inn, the foreman and workers are inside>
+
+Foreman - There you are! Here, this your pay, we hope it's enough.
+
+Ikari - Wow! Leo, this is enough for us to eat a lot and stay the night in the city! I'll hold on to it  for now.
+
+Foreman - We can't thank you enough for stopping the monsters and saving my men!
+
+All workers - We are in your debt!
+
+Leo - Hehe... It's no problem, I guess...
+
+Worker - Like we said before, if you ever need a favor from us, come find us again!
+
+<the workers leave>
+
+Ikari - Hehe~! Alright Leo, let's find something good to eat!

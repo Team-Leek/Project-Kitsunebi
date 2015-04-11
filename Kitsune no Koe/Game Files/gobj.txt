@@ -49222,3 +49222,477 @@ Script 0159 -- Main, Line: 7:in `block in <main>'
 :1:in `rgss_main'
 Script 0159 -- Main, Line: 7:in `<main>'
 ruby:in `eval'
+-----
+Time: 2015-04-06 22:23:34 -0400
+Memory Leak #<Sprite:0xa743c7c>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-06 22:23:34 -0400
+Memory Leak #<Sprite:0xa7438e4>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:15:42 -0400
+Memory Leak #<Sprite:0xa32f5dc>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:15:42 -0400
+Memory Leak #<Sprite:0xa32f1e0>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:49:26 -0400
+Memory Leak #<Sprite:0xa2eed48>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:49:26 -0400
+Memory Leak #<Sprite:0xa2ee9c4>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:51:18 -0400
+Memory Leak #<Sprite:0xa33caac>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:51:18 -0400
+Memory Leak #<Sprite:0xa33c728>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:54:10 -0400
+Memory Leak #<Sprite:0xa2dae74>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:54:10 -0400
+Memory Leak #<Sprite:0xa2da99c>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:56:42 -0400
+Memory Leak #<Sprite:0xa33cac0>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:56:42 -0400
+Memory Leak #<Sprite:0xa33c73c>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:57:53 -0400
+Memory Leak #<Sprite:0xa339c94>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:57:53 -0400
+Memory Leak #<Sprite:0xa339910>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:59:44 -0400
+Memory Leak #<Sprite:0xa33caac>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 18:59:44 -0400
+Memory Leak #<Sprite:0xa33c728>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 19:06:17 -0400
+Memory Leak #<Sprite:0xa2f6ac0>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 19:06:17 -0400
+Memory Leak #<Sprite:0xa2f673c>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 19:08:09 -0400
+Memory Leak #<Sprite:0xa32c940>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 161:in `create_blackbackground'
+Script 0133 -- MOG_Transition_EX, Line: 175:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-07 19:08:09 -0400
+Memory Leak #<Sprite:0xa32c5bc>
+In Scene NilClass
+Creation Stack:: 
+Script 0133 -- MOG_Transition_EX, Line: 231:in `initialize'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `new'
+Script 0133 -- MOG_Transition_EX, Line: 183:in `execute_transition_ex'
+Script 0133 -- MOG_Transition_EX, Line: 145:in `initialize'
+Script 0005 -- SceneManager, Line: 22:in `new'
+Script 0005 -- SceneManager, Line: 22:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa3030e0>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa302aa0>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa30253c>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa301ee8>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa3018d0>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa3012b8>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Command_Menu_Sprite:0xa300ca0>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3082:in `block in create_command'
+Script 0139 -- Mog Monogatari, Line: 3081:in `each'
+Script 0139 -- Mog Monogatari, Line: 3081:in `create_command'
+Script 0139 -- Mog Monogatari, Line: 3023:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-04-10 18:05:30 -0400
+Memory Leak #<Actor_Menu_Pictures:0xa3005d4>
+In Scene Scene_Menu
+Creation Stack:: 
+Script 0139 -- Mog Monogatari, Line: 3111:in `block in create_actor_pictures'
+Script 0139 -- Mog Monogatari, Line: 3110:in `each'
+Script 0139 -- Mog Monogatari, Line: 3110:in `create_actor_pictures'
+Script 0139 -- Mog Monogatari, Line: 3024:in `create_sprites'
+Script 0139 -- Mog Monogatari, Line: 1990:in `execute_setup'
+Script 0139 -- Mog Monogatari, Line: 1977:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0159 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0159 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
