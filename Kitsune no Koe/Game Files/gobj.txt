@@ -55587,3 +55587,803 @@ Script 0161 -- Main, Line: 7:in `block in <main>'
 :1:in `rgss_main'
 Script 0161 -- Main, Line: 7:in `<main>'
 ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72ff38>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72d47c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72cbf8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72c360>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72badc>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72b258>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72a9d4>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72a114>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa729890>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72900c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa728788>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa727ef0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72766c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa726de8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa726564>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa725cb8>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa725434>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa724bb0>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa72432c>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:41 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa723a80>
+In Scene Scene_Load
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa774084>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa77162c>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa770da8>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa7704fc>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76fc64>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76f3b8>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76eb0c>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76e288>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76d9dc>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76d130>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76c8ac>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76bba0>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76b074>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa76a6c4>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa769d28>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa769238>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa7686f8>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa767e24>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa767578>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-05-04 17:13:43 -0400
+CRITICAL OBJECT #<Window_SaveFile:0xa766bb4>
+In Scene Scene_Save
+Creation Stack:: 
+Script 0109 -- Scene_File, Line: 60:in `block in create_savefile_windows'
+Script 0109 -- Scene_File, Line: 59:in `initialize'
+Script 0109 -- Scene_File, Line: 59:in `new'
+Script 0109 -- Scene_File, Line: 59:in `create_savefile_windows'
+Script 0109 -- Scene_File, Line: 15:in `start'
+Script 0099 -- Scene_Base, Line: 12:in `main'
+Script 0142 -- MOG_Weather_EX, Line: 817:in `main'
+Script 0146 -- probably not needed, Line: 248:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0162 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0162 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
