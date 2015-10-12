@@ -530,3 +530,118 @@ Worker - Like we said before, if you ever need a favor from us, come find us aga
 <the workers leave>
 
 Ikari - Hehe~! Alright Leo, let's find something good to eat!
+
+<You both walk outside>
+
+Leo - So, where can we get something to eat?
+
+Ikari - There's a restaurant around here that's really delicious! It's just the best!
+- Sometimes I eat there when I get enough money, and we have plenty for now. It's enough for both of us to eat and stay at the inn tonight.
+
+Leo - So where is it?
+
+Ikari - It's (PUT IT SOMEWHERE) ! Let's go!
+
+<Either have Ikari lead you there, or have her just tell you where it is.>
+
+<Enter the Restaurant>
+
+Ikari - Here it is! Let's go sit at the counter and you can pick out what you want!
+
+Leo - Alright.
+
+<You go to the counter>
+
+Owner - Hello! Have a look at our menu, take your time!
+
+<show that you get a menu somehow>
+
+Leo - Hmm... Appleglaze pie, Springapple Soup, Apple and Meats platter...
+
+Leo - ...Is there anything without apples?
+
+Ikari - Huh? No, this place specializes in all kinds of apple foods! The owner has an orchard that he gets them all from, that's why this place is the best! The apples are so fresh!
+
+Leo - How interesting...
+
+<show time passed or something>
+
+Ikari - Ahh, I'm so full! That was great! Didn't you think so, Leo?
+
+Leo - It was pretty good. Definitely better than apples I've had back home.
+
+
+
+??? - So, how is the next shipment going to get here then?
+
+Owner - I'm not sure... With such a big flood, I don't know how I'll be able to get any more here at all.
+
+Ikari - Huh? There's a flood?
+
+Owner - Hmm? Oh, yes. I'm afraid there's been a nasty flood in Crescent Woods, and the supply route is totally blocked. I won't be able to get my carts through at all. It could be disastrous for the city's economy...
+
+Ikari - A flood? But we were just there! And it hasn't been raining or anything...
+
+??? - I've heard folks saying that the water spirit in Lotus Shrine is enraged. It would explain the sudden flood, but no one really knows what could have angered it so suddenly.
+
+Ikari - Leo, this is awful! The village...
+
+Leo - Is that the village you mentioned before?
+
+Ikari - Yes! I've lived there for a long time since I lost my old home, and... if anything happened to it...
+
+Leo - Is there anything I can do to help?
+
+Ikari - Really...? You're just going to help me without even being asked?
+
+Leo - It can't be helped anymore, can it? As long as I'm in this world, you're the only one I really know. I don't have anything else to do, or anywhere else to go, so...
+
+Ikari - Hehe~... Thank you, Leo.
+
+Leo - Umm... Yeah. So, do you have any ideas.
+
+Ikari - Well... All I can think would be to visit the shrine. If the water spirit is angry, maybe I can commune with it and ask what's wrong?
+
+Leo - Alright then... Let's go, then.
+
+<Walk to the woods>
+
+Ikari - Oh no... It really is flooded... This is awful.
+
+Leo - Hmm...
+
+Ikari - Come on, we need to get to the shrine!
+
+<Once you reach the shrine, another cutscene starts>
+
+Ikari - Oh no! Leo, quick, hide!
+
+Leo - Huh, what's going on?
+
+Ikari - Shh! Just hide over here with me! <use a plant or a stump or something>
+
+??? - I'm afraid not... The damn thing nearly drowned me.
+
+Leo - It's him again...
+
+Ikari - His name is Reason... I overheard him say it before. 
+
+Reason - After I lost track of her again, I thought if I captured the spirit, it might make up for that failure...
+
+Leo - Who is he talking to? It looks like he's talking to that rock...
+
+Ikari - I don't know who exactly, but those are magical stones used to communicate relatively short distances... It must mean he has allies nearby...
+
+Reason - Unfortunately, it proved to be beyond my ability, and I nearly drowned in the shrine. This is a quite a problem, how can I return having failed twice...
+
+<Reason walks off>
+
+Leo - Is he gone...?
+
+Ikari - Looks like it... Let's get inside. I should be able to commune with the spirit, so hopefully it won't try to drown us too.
+
+Leo - Hopefully...?
+
+<Ikari goes ahead of you>
+
+Leo - W-wait up!
