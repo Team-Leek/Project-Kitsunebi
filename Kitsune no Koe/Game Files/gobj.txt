@@ -59687,3 +59687,57 @@ Script 0163 -- Main, Line: 7:in `block in <main>'
 :1:in `rgss_main'
 Script 0163 -- Main, Line: 7:in `<main>'
 ruby:in `eval'
+-----
+Time: 2015-10-12 05:02:25 -0400
+Memory Leak #<Title_Commands:0xa8cafb4>
+In Scene Scene_Title
+Creation Stack:: 
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 231:in `block in create_commands'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 230:in `each'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 230:in `create_commands'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 194:in `create_sprites'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 92:in `execute_setup'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 77:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0164 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0164 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-10-12 05:02:25 -0400
+Memory Leak #<Title_Commands:0xa8cace4>
+In Scene Scene_Title
+Creation Stack:: 
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 231:in `block in create_commands'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 230:in `each'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 230:in `create_commands'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 194:in `create_sprites'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 92:in `execute_setup'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 77:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0164 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0164 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
+-----
+Time: 2015-10-12 05:02:25 -0400
+Memory Leak #<Title_Commands:0xa8caa28>
+In Scene Scene_Title
+Creation Stack:: 
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 231:in `block in create_commands'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 230:in `each'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 230:in `create_commands'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 194:in `create_sprites'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 92:in `execute_setup'
+Script 0122 -- MOG_Himawari_Title_Screen, Line: 77:in `main'
+Script 0005 -- SceneManager, Line: 23:in `run'
+Script 0164 -- Main, Line: 7:in `block in <main>'
+:1:in `block in rgss_main'
+:1:in `loop'
+:1:in `rgss_main'
+Script 0164 -- Main, Line: 7:in `<main>'
+ruby:in `eval'
