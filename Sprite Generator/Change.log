@@ -1,0 +1,93 @@
+8/24/2015
+	• Made changes to prevent errors in loading images just in case
+
+12/07/2013:
+	• Reduced CPU usage a lot. Nearly half.
+
+	• All the buttons, check boxes, and other Objects in the
+	  UI will no longer flicker when they are being changed or
+	  highlighted over. This has been annoying me for a long
+	  time.
+
+	• Fixed an error where if the "config.cfg" file was 
+	  missing Sprite Creator 3 would not load.
+
+12/06/2013:
+	• Fixed a bug with the UI that would keep the image from 
+	  displaying properly depending on what choices were made
+	  in a certain order.
+
+	• Recolored all the Male Objects. Female Objects will be 
+	  colored here soon.
+
+	• Changed the way images are stored within Sprite Creator 
+	  3 at runtime. Getting ready for some big changes to how 
+	  you use Sprite Creator 3
+
+	• When clicking Show Ears for the first time on both Male 
+	  and Female the preview windows will no longer flicker. 
+
+12/05/2013:
+	• Added Arms, Shoulder, and Waist objects for both Male 
+	  and Female
+
+12/04/2013:
+	• Finished the big code changes. 
+	• Put a pause button in to pause the Animation Window.
+
+12/03/2013:
+	• Very large base code change.
+	• There is now a check box, that will be improved upon, 
+	  that makes the Animation Preview Window one frame 4
+	  times larger than the original image. You then can use
+	  the arrows to change the direction of the Animated
+	  Preview
+
+12/02/2013:
+	• Added the option to save the XP image as a VX image in 
+	  the standard 3x4 frames
+
+12/01/2013:
+	• You can now import custom multi-layered images. 
+	  Currently only Hair has more than one layer. To import a
+	  second layer or the "Back/Behind the character" image 
+	  rename the behind image like this 1_red_b.png The front
+	  image should be labled as 1_red.png
+	• Changed the Config file added an override feature for 
+	  multil-layered images.
+	• If the config file is unable to load. A config.cfg file 
+	  with the default values will be created and the program 
+	  will then try to load from the config again.
+
+11/30/2013:
+	• Added a Hat option for both male and female.
+	• You can now switch the drawing order between boots and 
+	  pants
+	• Added Shirt and Long Shirt option for both male and
+	  female
+	• Fixed a bug where reloading male or female while using 
+	  the other sex would result in the selection window 
+	  resetting as well for the current selected sex rather 
+	  than maintaining the current selected window. This is 
+	  now working correctly.
+	• Saving all layers has been added back into Sprite 
+	  Creator 3 XP. Not sure how it was removed.
+	• Changed the draw order a bit to accomidate the new 
+	  objects that are available now.
+
+11/29/2013:
+	• Added Pants to the available options for both male and 
+	  female
+	• Added a Save All Layers feature that was in Sprite 
+	  Creator 3 VX
+	• Config file will auto create correctly
+
+11/28/2013:
+	• Added the ability to use multi-layered images. Hair 
+	  should now display correctly.
+
+11/26/2013:
+	• Inital Beta Release of Sprite Creator 3 XP
+	• You can import your own objects into the working 
+	  categories.
+
